@@ -23,14 +23,14 @@ export default function UsersPage() {
 
         <TableBody>
           <TableRow>
-            <TableCell>John Doe</TableCell>
-            <TableCell>john@example.com</TableCell>
+            <TableCell>srinivas</TableCell>
+            <TableCell>srinivas@gmail.com</TableCell>
             <TableCell>Active</TableCell>
           </TableRow>
 
           <TableRow>
-            <TableCell>Jane Smith</TableCell>
-            <TableCell>jane@example.com</TableCell>
+            <TableCell>prasad</TableCell>
+            <TableCell>prasad@gmail.com</TableCell>
             <TableCell>Inactive</TableCell>
           </TableRow>
         </TableBody>
